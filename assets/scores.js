@@ -12,7 +12,7 @@ highScores.sort(function (a, b) {
 // display the scores
 for (var s = 0; s < highScores.length; s++) {
     var newLi = document.createElement("li")
-    newLi.textContent = highScores[s].name + " - " + highScores[s].score
+    newLi.textContent = highScores[s].name + " : " + highScores[s].score
     scoreList.appendChild(newLi)
 }
 

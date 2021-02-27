@@ -4,19 +4,19 @@
 var questions = [
   {
       title: "What Color Of Car Hides The Dirt The Best?",
-      choices: ["White", "Blue", "black", "red"],
+      choices: ["white", "Blue", "black", "red"],
       answer: "white"
   },
 
   {
       title: "What Car Is A Diesel",
       choices: ["Vw Passat TdI", "BMW 330 ci", "Ford Focus", "Toyota Camry"],
-      answer: "Vw Passat TDI"
+      answer: "Vw Passat TdI"
   },
 
   {
       title: "What Car Has The Fastest Top Speed @ 261MPH",
-      choices: ["2020 Aston Martin DBS Superleggera ", "2020 Ferrari F8", "2020 Bugutti Chiron ", "2020 Ford GT"],
+      choices: ["2020 Aston Martin DBS Superleggera ", "2020 Ferrari F8", "2020 Bugutti Chiron", "2020 Ford GT"],
       answer: "2020 Bugutti Chiron"
   },
 
